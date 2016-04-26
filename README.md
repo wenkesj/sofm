@@ -1,6 +1,8 @@
 # Self Organized Feature Map
 SOFM Associative memory written in Golang
 
+![Logo](https://github.com/wenkesj/sofm/blob/master/logo.png)
+
 ```sh
 go get github.com/wenkesj/sofm
 ```

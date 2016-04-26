@@ -1,0 +1,7 @@
+goat
+pig
+badger
+ostrich
+bat
+blue-whale
+killer-whale
